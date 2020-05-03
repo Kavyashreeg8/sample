@@ -1,0 +1,31 @@
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_231\bin;%MAVEN_HOME%\bin
+
+C:\Program Files\Java\jdk1.8.0_241
+
+
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_241\bin;%MAVEN_HOME%\bin;C:\Program Files\Git\cmd
+
+
+https://75f.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&group_id=30
+
+https://75f.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&group_id=92
+
+current date
+
+start date and end date
+
+user name start nd end date
+
+select date fuction
+
+sd and ed
+
+read year matcha month 
+
+we cant select the previous
+
+
+
+
+pe
+

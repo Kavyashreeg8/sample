@@ -1,0 +1,23 @@
+select a date from calendar
+use findElement method
+set a loop operation to get a text element
+using if else condition we will check specific date
+If date is matched then click and break the loop.
+
+
+
+available - today available - current- 13th date div/left td
+
+
+
+
+17- active start-date available - next month - slected
+
+off disabled invalid ng-star-inserted 7th
+
+off available ng-star-inserted- 4th math
+
+
+//div[@class='calendar left ng-star-inserted']/div/table[1]/tbody/tr/td[not(contains(@class,'off'))]//span[contains(text(), '16')]
+
+double click

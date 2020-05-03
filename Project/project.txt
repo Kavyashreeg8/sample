@@ -1,0 +1,37 @@
+List<WebElement> columns = dateWidgetFrom.findElements(By.tagName("td"));
+
+  for (WebElement cell: columns) {
+            /*
+            //If you want to click 18th Date
+            if (cell.getText().equals("18")) {
+            */
+            //Select Today's Date
+            if (cell.getText().equals(today)) {
+                cell.click();
+                break;
+
+
+
+
+
+//div[@class='DayPicker-Month']/div/div
+
+normal
+current
+stick
+
+td=18
+
+<th class="month drp-animate" colspan="5"><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--><!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><!----> April  2020 </th>
+
+
+<th class="month" colspan="5"><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--><!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><!----> May  2020 </th>
+
